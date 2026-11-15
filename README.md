@@ -1,4 +1,4 @@
-# backprop-neural-network-side-project
+# Backprop Neural Network Side Project
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
